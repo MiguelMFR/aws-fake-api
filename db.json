@@ -1,0 +1,88 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "idade": 28,
+      "carroId": 1,
+      "timeId": 1
+    },
+    {
+      "id": 2,
+      "nome": "Maria Souza",
+      "idade": 34,
+      "carroId": 2,
+      "timeId": 2
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Oliveira",
+      "idade": 22,
+      "carroId": 3,
+      "timeId": 3
+    },
+    {
+      "id": 4,
+      "nome": "Ana Santos",
+      "idade": 30,
+      "carroId": 4,
+      "timeId": 1
+    },
+    {
+      "id": 5,
+      "nome": "Pedro Costa",
+      "idade": 25,
+      "carroId": 5,
+      "timeId": 2
+    }
+  ],
+  "carros": [
+    {
+      "id": 1,
+      "modelo": "Fusca",
+      "marca": "Volkswagen",
+      "ano": 1978
+    },
+    {
+      "id": 2,
+      "modelo": "Civic",
+      "marca": "Honda",
+      "ano": 2020
+    },
+    {
+      "id": 3,
+      "modelo": "Corolla",
+      "marca": "Toyota",
+      "ano": 2019
+    },
+    {
+      "id": 4,
+      "modelo": "Onix",
+      "marca": "Chevrolet",
+      "ano": 2021
+    },
+    {
+      "id": 5,
+      "modelo": "HB20",
+      "marca": "Hyundai",
+      "ano": 2018
+    }
+  ],
+  "times": [
+    {
+      "id": 1,
+      "nome": "Flamengo",
+      "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": 2,
+      "nome": "Corinthians",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": 3,
+      "nome": "Grêmio",
+      "cidade": "Porto Alegre"
+    }
+  ]
+}
